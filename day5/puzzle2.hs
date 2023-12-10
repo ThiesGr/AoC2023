@@ -1,3 +1,4 @@
+-- Compile with O2
 {-# LANGUAGE OverloadedRecordDot #-}
 {-# LANGUAGE DuplicateRecordFields #-}
 
